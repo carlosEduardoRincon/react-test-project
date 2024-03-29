@@ -1,1 +1,1 @@
-Projeto para teste do framework React
+Projeto para teste do React (JS library)
